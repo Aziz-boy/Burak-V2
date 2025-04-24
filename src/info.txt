@@ -1,0 +1,8 @@
+
+SQL ?
+
+NOSQL ?
+
+
+mongoose bu mongodb uchun ishlash uchun yaratilgan package 
+mongodb NOSQL bo'lgani uchun ham, SQL singari Table datalarni mongoose schemalari yordamida yaratamiz 
