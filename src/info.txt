@@ -6,3 +6,12 @@ NOSQL ?
 
 mongoose bu mongodb uchun ishlash uchun yaratilgan package 
 mongodb NOSQL bo'lgani uchun ham, SQL singari Table datalarni mongoose schemalari yordamida yaratamiz 
+
+
+Project Standards:
+-Logging Standards
+-Naming Standards
+    function, method, variable => CAMEL  goHome
+    class => PASCAL                      MemberService
+    folder => KEBAB                      error-handling
+    css => SNAKE                         button_style
