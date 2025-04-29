@@ -15,3 +15,20 @@ Project Standards:
     class => PASCAL                      MemberService
     folder => KEBAB                      error-handling
     css => SNAKE                         button_style
+
+
+38&39 dars
+
+export defult bilan oddiy default farqlari 
+Enum typelar nima 
+member schmeani qurishning ikki yoli code first schema first 
+40&42 dars
+
+api ga response turlari send | json | redirect | end | render
+
+API nima 
+
+API turlari restApi, Traditional Api, Graphql api
+API tuzilishi header body
+API methodlari get post 
+PRomise va uni qachon ishlatish yoki ishlatmaslik
