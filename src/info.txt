@@ -22,7 +22,7 @@ Project Standards:
 export defult bilan oddiy default farqlari 
 Enum typelar nima 
 member schmeani qurishning ikki yoli code first schema first 
-40&42 dars
+40&41 dars
 
 api ga response turlari send | json | redirect | end | render
 
@@ -35,5 +35,29 @@ PRomise va uni qachon ishlatish yoki ishlatmaslik
 
 TCP va HTTP farqlari 
 
-
+42&43 dars
 JSON format bilan object datani farqi nima farqi "" qo'shtirnoqda ikkalasi ham bir xil
+passwordlarni hash qilish 
+bcrypt.js
+salt orqali passwordni tuzlaymiz hashing esa aynan tuz orqali yani salt orqali amalga oshiramiz
+
+vps va vpc nima 
+serverlarni bog'lanish boyucha tulari
+aythentication nima ?
+session authentication qanday ishlatilinadi 
+
+browserning xotiralarini o'rganamiz
+
+authentication
+1session (cookies)
+2tokens (cookies)
+3tokens(headers)
+
+Brauzerning xotiralarin
+local storage 
+session storage 
+cookie storage
+
+o'ziga xos xususiyati 
+chaqirilsam ham chaqirilmasa ham request bilan qoshilib boraveradi 
+Kamikadze xususiyatiga ega yani o'zini o'zi yuq qiladi
