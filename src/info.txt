@@ -32,3 +32,8 @@ API turlari restApi, Traditional Api, Graphql api
 API tuzilishi header body
 API methodlari get post 
 PRomise va uni qachon ishlatish yoki ishlatmaslik
+
+TCP va HTTP farqlari 
+
+
+JSON format bilan object datani farqi nima farqi "" qo'shtirnoqda ikkalasi ham bir xil
